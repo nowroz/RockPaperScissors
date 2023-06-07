@@ -1,4 +1,4 @@
-# WeSplit
+# RockPaperScissors
 
 ## Demo
 
